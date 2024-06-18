@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/hello-react/static/js/main.5e3de56a.js",
+    "main.js": "/hello-react/static/js/main.f89d021b.js",
     "index.html": "/hello-react/index.html",
-    "main.5e3de56a.js.map": "/hello-react/static/js/main.5e3de56a.js.map"
+    "main.f89d021b.js.map": "/hello-react/static/js/main.f89d021b.js.map"
   },
   "entrypoints": [
-    "static/js/main.5e3de56a.js"
+    "static/js/main.f89d021b.js"
   ]
 }
